@@ -1,4 +1,4 @@
- <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile&psig=AOvVaw0vT5XEEMvrWBWOSv2mSVRy&ust=1714316721961000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjop9HV4oUDFQAAAAAdAAAAABAJ" alt="banner" width="100%"/> </p>
+ <p align="left"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%"/> </p>
 
 
     <h1 align="center">Hi 👋, I'm Vikral Yadav</h1>
